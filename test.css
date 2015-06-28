@@ -57,6 +57,7 @@ input {
     width: 550px;
     border-radius: 0px;
     border:1px solid #e5e5ff;
+    outline: none;
 }
 
 .buttons {
